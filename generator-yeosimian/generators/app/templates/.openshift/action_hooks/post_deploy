@@ -1,0 +1,4 @@
+echo Copying openshift-config file to $OPENSHIFT_REPO_DIR/wp-config.php
+cp $OPENSHIFT_REPO_DIR/stack/openshift-config.php $OPENSHIFT_REPO_DIR/wp-config.php
+echo Copying openshift-htaccess file to $OPENSHIFT_REPO_DIR/.htaccess
+cp $OPENSHIFT_REPO_DIR/stack/openshift-htaccess.conf $OPENSHIFT_REPO_DIR/.htaccess

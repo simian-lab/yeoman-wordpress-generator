@@ -1,0 +1,22 @@
+{
+  "name": "generator-yeosimian",
+  "version": "0.0.0",
+  "description": "A wordpress site, custom with vagrant and openshift",
+  "homepage": "",
+  "author": {
+    "name": "Simian",
+    "email": "dev@simian.co",
+    "url": "http://simian.co/"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "wordpress",
+    "vagrant",
+    "sass",
+    "openshift",
+    "shippable"
+  ]
+}
